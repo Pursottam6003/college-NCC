@@ -1,0 +1,11 @@
+#icon
+{
+    width: 30px;
+    cursor: pointer;
+    margin-left:90%;
+}
+:root 
+{
+    /* --primary-color: #ffffff; */
+    --secondary-color:#212121;
+}
